@@ -1,4 +1,4 @@
-# Salma Fadli G2 Finance
+# Salma Fadli G2,22006067 , Finance
 #  Breast Cancer Wisconsin (Diagnostic) Data Set
 ![photo de salma fadli.jpeg](https://github.com/fadlisalmaencg-a11y/DS-2025/blob/main/photo%20de%20salma%20fadli.jpeg?raw=true)
 # Compte Rendu - Projet de Classification : Breast Cancer Wisconsin (Diagnostic)
